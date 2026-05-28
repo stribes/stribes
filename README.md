@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-# My Languages
+# My Tech Stack
 
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)](#)
